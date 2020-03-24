@@ -17,5 +17,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "babel-plugin-import": "^1.13.0"
   }
 }
