@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Layout from \"../layouts/Main\";\nexport default (() => __jsx(Layout, null, \"Contact Page\"));","map":null,"metadata":{},"sourceType":"module"}

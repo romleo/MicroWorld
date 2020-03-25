@@ -1,0 +1,1 @@
+{"ast":null,"code":"var nextRoutes = require('next-routes');\n\nvar routes = module.exports = nextRoutes();\nroutes.add('index', '/');\nroutes.add('about', '/about');\nroutes.add('post', '/blog/:slug');","map":null,"metadata":{},"sourceType":"script"}

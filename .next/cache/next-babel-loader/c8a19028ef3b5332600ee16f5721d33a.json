@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst Footer = styled.footer.withConfig({\n  displayName: \"Footer\",\n  componentId: \"sc-1012mtb-0\"\n})([\"padding:15px;background:#F5F5F5;\"]);\nexport default Footer;","map":null,"metadata":{},"sourceType":"module"}

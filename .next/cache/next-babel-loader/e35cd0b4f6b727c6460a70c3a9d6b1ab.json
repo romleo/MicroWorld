@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { injectGlobal } from 'styled-components';\ninjectGlobal`\n  ul {\n    margin: 0;\n    padding: 0;\n  }\n  `;","map":null,"metadata":{},"sourceType":"module"}

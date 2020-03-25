@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst Wrapper = styled.footer.withConfig({\n  displayName: \"Wrapper\",\n  componentId: \"sc-18ton75-0\"\n})([\"display:flex;min-height:100vh;flex-direction:column;main{flex:1;}\"]);\nexport default Wrapper;","map":null,"metadata":{},"sourceType":"module"}
